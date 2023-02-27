@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CriptoCoins:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CriptoCoins_jar</output-path>
+    <root id="archive" name="CriptoCoins.jar">
+      <element id="module-output" name="CriptoCoins" />
+    </root>
+  </artifact>
+</component>
